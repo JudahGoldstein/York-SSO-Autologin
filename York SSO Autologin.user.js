@@ -16,6 +16,6 @@ window.onload = function() {
     console.log("success, logging you in");
     button[0].click(); //hits login button 
   } else {
-    alert("I'm happy that you have such confidence in my mind reading abilities but this script only works with autofill enabled for your YorkU account's username and password through your browser. if this is a mistake please make an issue on my github at https://github.com/Nexr0n/York-SSO-Autologin");
+    alert("I'm happy that you have such confidence in my mind reading abilities but this script only works with autofill enabled for your YorkU account's username and password through your browser. if this is a mistake please make an issue on my github at https://github.com/JudahGoldstein/York-SSO-Autologin");
   }
 }
